@@ -1,0 +1,19 @@
+01:37:05.024 INFO processP1 - read 38 from buffer.txt
+01:37:05.025 INFO processP1 - write 38 to console
+01:37:06.030 INFO processP1 - read 1719 from buffer.txt
+01:37:06.031 INFO processP1 - write 1719 to console
+01:37:07.035 INFO processP1 - read 1238 from buffer.txt
+01:37:07.036 INFO processP1 - write 1238 to console
+01:37:08.040 INFO processP1 - read 437 from buffer.txt
+01:37:08.041 INFO processP1 - write 437 to console
+01:37:09.043 INFO processP1 - read 855 from buffer.txt
+01:37:09.044 INFO processP1 - write 855 to console
+01:37:10.048 INFO processP1 - read 1797 from buffer.txt
+01:37:10.049 INFO processP1 - write 1797 to console
+01:37:11.053 INFO processP1 - read 365 from buffer.txt
+01:37:11.054 INFO processP1 - write 365 to console
+01:37:12.059 INFO processP1 - read 285 from buffer.txt
+01:37:12.059 INFO processP1 - write 285 to console
+01:37:12.659 INFO processP1 - read -1 from buffer.txt
+01:37:12.660 INFO processP1 - write -1 to console
+01:37:12.661 INFO processP1 - closed
